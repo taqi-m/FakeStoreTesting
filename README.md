@@ -520,8 +520,8 @@ MIT License - See LICENSE file for details
 
 ## 👤 Author
 
-**SQE Assignment - FAST NUCES**  
-Fall 2025
+**taqi-m**  
+
 
 ---
 
