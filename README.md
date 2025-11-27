@@ -116,7 +116,7 @@ npm --version    # Should be v8.x or higher
 
 ### Step 1: Navigate to Project Directory
 ```powershell
-cd "g:\My Drive\FAST-NUCES\5 - FALL 2025\SQE\Submissions\Assignments\04\api-tests"
+cd "{rootDir}\api-tests"
 ```
 
 ### Step 2: Install Dependencies
