@@ -512,12 +512,6 @@ node_modules\.bin\jest
 
 ---
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
 ## 👤 Author
 
 **taqi-m**  
